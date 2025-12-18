@@ -1,10 +1,10 @@
 import './App.css';
-import Heart from './Heart';
+import WineGlass from './Heart';
 
 function App() {
   return (
     <div className='App'>
-      <Heart text='Вера, пойдем гулять! ' />
+      <WineGlass textToShow='Саня, Настя, Лёша - пошли пить и петь! ' />
     </div>
   );
 }
